@@ -1,0 +1,9 @@
+*{
+ box-sizing: border-box;
+ margin: 0;
+}
+
+.carousel-item{
+ filter: grayscale(100%);
+
+}
